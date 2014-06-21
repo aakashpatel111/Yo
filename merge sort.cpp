@@ -4,6 +4,7 @@ using namespace std;
 void merge(int *,int, int , int );
 void mergesort(int *a, int low, int high)
 {
+	//lol maxx
     int mid;
     if (low < high)
     {
